@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "113237876277",
+    "firebase_url": "https://contoh-811cc.firebaseio.com",
+    "project_id": "contoh-811cc",
+    "storage_bucket": "contoh-811cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113237876277:android:ec43596f3eef874bbb5b7c",
+        "android_client_info": {
+          "package_name": "com.iceka.mymap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113237876277-73sq7pr9v0ff4uk6mgopkvt0u38v03q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAh6Xpr0VLtg4Kzwt3s5_9Z3qLVtPsBng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113237876277-73sq7pr9v0ff4uk6mgopkvt0u38v03q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113237876277:android:d1963c9efc724326bb5b7c",
+        "android_client_info": {
+          "package_name": "com.iceka.nearestdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113237876277-73sq7pr9v0ff4uk6mgopkvt0u38v03q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAh6Xpr0VLtg4Kzwt3s5_9Z3qLVtPsBng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113237876277-73sq7pr9v0ff4uk6mgopkvt0u38v03q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113237876277:android:912e6308b5b3d2c9bb5b7c",
+        "android_client_info": {
+          "package_name": "com.iceka.nearestworker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113237876277-73sq7pr9v0ff4uk6mgopkvt0u38v03q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAh6Xpr0VLtg4Kzwt3s5_9Z3qLVtPsBng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113237876277-73sq7pr9v0ff4uk6mgopkvt0u38v03q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113237876277:android:b4fcbe93638ce381",
+        "android_client_info": {
+          "package_name": "com.whatsapp.clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113237876277-vicr30d88u3lvo8l1e8p8ppoej1lh8r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whatsapp.clone",
+            "certificate_hash": "363a0f85c2ddc1db573befb1d5086308e9ccf290"
+          }
+        },
+        {
+          "client_id": "113237876277-73sq7pr9v0ff4uk6mgopkvt0u38v03q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAh6Xpr0VLtg4Kzwt3s5_9Z3qLVtPsBng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113237876277-73sq7pr9v0ff4uk6mgopkvt0u38v03q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

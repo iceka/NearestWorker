@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nearest Worker</string>
+    <string-array name="worker_jobs">
+        <item>AC Technician</item>
+        <item>Electrician</item>
+        <item>Gardener</item>
+        <item>Plumber</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
